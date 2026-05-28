@@ -13,4 +13,4 @@ Me apasiona el desarrollo de software y la resolución de problemas. Actualmente
 ---
 
 ### 📈 Mis Estadísticas de GitHub
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Pabloup&show_icons=true&theme=radial)
+(https://github-readme-stats.vercel.app/api?username=Pabloup&show_icons=true&theme=radial)
