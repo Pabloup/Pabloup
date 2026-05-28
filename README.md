@@ -8,7 +8,7 @@ Me apasiona el desarrollo de software y la resolución de problemas. Actualmente
 | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> |
 | Proyectos académicos y algoritmos | Automatizaciones y scripts | Desarrollos web e interactivos |
-| [📂 Ver Proyectos de Java](https://github.com/Pabloup) | [📂 Ver Proyectos de Python](https://github.com/Pabloup) | [📂 Ver Proyectos de JavaScript](https://github.com/Pabloup) |
+| [📂 Ver Proyectos de Java](https://github.com/Pabloup) | [📂 Ver Proyectos de Python](https://github.com/Pabloup) | [📂 Ver Proyectos de JavaScript](https://github.com/Pabloup/control-obras-electricas) |
 
 ---
 
