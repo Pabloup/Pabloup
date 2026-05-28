@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy Pablo 👋
 
-<!--
-**Pabloup/Pabloup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me apasiona el desarrollo de software y la resolución de problemas. Actualmente estudio en la UNICEN la tecnicatura TODAI y aquí podés ver mis proyectos organizados por tecnología:
 
-Here are some ideas to get you started:
+# Mis Proyectos por Lenguaje
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Java | Python | JavaScript |
+| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> |
+| Proyectos académicos y algoritmos | Automatizaciones y scripts | Desarrollos web e interactivos |
+| [📂 Ver Proyectos de Java](https://github.com/Pabloup) | [📂 Ver Proyectos de Python](https://github.com/Pabloup) | [📂 Ver Proyectos de JavaScript](https://github.com/Pabloup) |
+
+---
+
+### 📈 Mis Estadísticas de GitHub
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Pabloup&show_icons=true&theme=radial)
